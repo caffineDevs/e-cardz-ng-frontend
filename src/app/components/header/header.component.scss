@@ -1,0 +1,11 @@
+.handleUserNotificationsMenu:focus + .showNotificationsMenu{
+  display: block;
+}
+
+.handleUserMenu:focus + .showUserMenu{
+  display: block;
+}
+
+.text-white-active{
+  color: white !important;
+}

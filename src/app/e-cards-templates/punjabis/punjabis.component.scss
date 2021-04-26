@@ -1,0 +1,58 @@
+
+.text-container {
+  top: 55%;
+  font-size: 30px;
+  color: #4c1500;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  padding: 0 1.5rem;
+  text-align: center;
+  line-height: 1.25;
+  *{
+      width: fit-content;
+      font-family: "Tangerine", cursive;
+  }
+}
+
+.invitors,
+.invitors-subtext {
+  font-size: 25px;
+  color: #cb7931;
+}
+.invitors {
+  color: #4c1500;
+}
+.bride-groom-names {
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.reception-date {
+  top: 10px;
+  left: -5%;
+}
+
+.wedding-date {
+  top: -55px;
+  right: -205%;
+}
+
+.dates {
+  font-size: 25px;
+}
+
+.finisher {
+  position: absolute;
+  left: 30%;
+  top: 215px;
+  img{
+      height: 30px;
+      width: auto;
+  }
+}
+
+.cta-tbn{
+    font: 16px/1.5 "Raleway", sans-serif;
+    color: #8d8d8d;
+}
